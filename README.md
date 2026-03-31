@@ -1,6 +1,6 @@
 # Noah Page's IT and Cybersecurity Project Portfolio 🔐
 
-Passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever‑evolving landscape of cybersecurity. Please feel free to check them out and see the work I've put into enhancing security operations and processes!
+Passionate about cybersecurity, with hands-on project experience focused on vulnerability management, threat detection, security operations, and automation. These initiatives involve deploying and optimizing enterprise-grade tools such as Tenable, Nessus, and custom scanning solutions to proactively identify, analyze, and remediate security risks in complex environments.
 
 ---
 
