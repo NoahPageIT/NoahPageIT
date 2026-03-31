@@ -7,7 +7,7 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/NoahPageIT/Vulnerability-Management-Program)
-- [Programmatic Vulnerability Remediations (PowerShell and Bash)](#)
+- [Programmatic Vulnerability Remediations (PowerShell and Bash)](https://github.com/NoahPageIT/Programmatic-Vulnerability-Remediations)
 
 ---
 
