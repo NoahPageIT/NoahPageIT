@@ -21,3 +21,15 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 
 - [LinkedIn](https://www.linkedin.com/in/noahrpage/)
 - [GitHub](https://github.com/NoahPageIT/NoahPageIT)
+
+
+## 🛡️ Skills Developed
+
+| Area               | Focus                                      |
+|--------------------|--------------------------------------------|
+| Identity & Access  | Active Directory, DNS fundamentals         |
+| Infrastructure     | Network segmentation, trust boundaries     |
+| Vulnerability Mgmt | STIGs, remediation logic                   |
+| Threat Hunting     | ATT&CK thinking, investigation flow        |
+| Logging & Auditing | Windows audit policy                       |
+| Automation         | PowerShell hardening scripts               |
