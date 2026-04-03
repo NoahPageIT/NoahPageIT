@@ -20,7 +20,6 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 ## 📱 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/noahrpage/)
-- [GitHub](https://github.com/NoahPageIT/NoahPageIT)
 
 
 ## 🛡️ Skills Developed
