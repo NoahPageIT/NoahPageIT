@@ -13,7 +13,7 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 
 ## 🕵️ Threat Hunting and Security Operations
 
-- [Threat Hunting Scenario (Tor Browser Usage)](#)
+- [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 
 ---
 
