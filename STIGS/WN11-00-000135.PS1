@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    ## Host-based firewall must be enabled
+    ##Host-based firewall must be enabled
     The Windows Defender Firewall was not enabled across all network profiles, 
     increasing exposure to unauthorized network traffic. The system was remediated by enabling the firewall for Domain, Private, 
     and Public profiles using PowerShell, ensuring consistent protection across all network connections.
