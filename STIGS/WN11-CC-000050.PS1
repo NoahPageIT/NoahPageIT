@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
     Hardened UNC Paths must be configured
+    Hardened UNC Paths were not defined for SYSVOL and NETLOGON shares, exposing the system to potential spoofing or tampering attacks.
+    The system was remediated by enforcing mutual authentication and integrity requirements through registry-based Group Policy configuration.
 
 .NOTES
     Author          : Noah Page
