@@ -7,7 +7,7 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 ## ⚠️ Vulnerability Management Projects
 
 - [Vulnerability Management Program Implementation](https://github.com/NoahPageIT/Vulnerability-Management-Program)
-- [Windows 11 STIG Remediations ]()
+- [Windows 11 STIG Remediations (PowerShell)]()
 
 ---
 
