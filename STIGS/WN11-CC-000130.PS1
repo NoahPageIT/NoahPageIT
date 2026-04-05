@@ -1,9 +1,8 @@
 <#
 .SYNOPSIS
-  BitLocker must require pre-boot authentication
-  BitLocker pre-boot authentication policies were not fully configured, which could allow unauthorized access to encrypted data. 
-  The system was remediated by enabling advanced startup authentication and enforcing TPM with PIN requirements through registry-based Group Policy settings. 
-  This ensures compliance with STIG requirements for secure pre-boot authentication.
+  Do not enumerate local users
+  Local user enumeration was enabled, potentially exposing account information to unauthorized users.
+  The system was remediated by disabling the enumeration of local users through policy-based registry configuration.
 
 .NOTES
     Author          : Noah Page
