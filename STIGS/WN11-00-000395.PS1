@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
     PortProxy must not be enabled
+    PortProxy configurations can allow unintended port forwarding and increase the risk of man-in-the-middle attacks.
+    The system was remediated by clearing all existing port proxy configurations using netsh, ensuring no unauthorized forwarding rules remain.
 
 .NOTES
     Author          : Noah Page
