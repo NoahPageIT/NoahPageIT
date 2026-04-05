@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
     Virtualization-Based Security must be enabled
+    Virtualization-Based Security (VBS) was not enabled, reducing protections against credential theft and kernel-level exploits.
+    The system was remediated by enabling VBS through Device Guard registry settings. Full compliance may require compatible hardware and a system reboot.
 
 .NOTES
     Author          : Noah Page
