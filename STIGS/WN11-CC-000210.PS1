@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
     “Microsoft Defender SmartScreen for Explorer must be enabled”
+    Microsoft Defender SmartScreen was not enabled, increasing the risk of executing malicious or untrusted downloaded files.
+    The system was remediated by enabling SmartScreen and configuring it to block untrusted applications via registry-based policy settings.
 
 .NOTES
     Author          : Noah Page
