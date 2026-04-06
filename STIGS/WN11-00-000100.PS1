@@ -1,8 +1,7 @@
 <#
 .SYNOPSIS
-  PowerShell 2.0 must be disabled
-  Windows PowerShell 2.0 was disabled to prevent downgrade attacks that could bypass modern logging and security controls.
-  This ensures that only newer, more secure PowerShell versions are available for use.
+  IIS must not be installed
+  Internet Information Services (IIS) and related web server components were removed or disabled to reduce the system’s attack surface and prevent unauthorized hosting of web services.
 
 .NOTES
     Author          : Noah Page
