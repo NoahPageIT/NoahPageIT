@@ -14,7 +14,7 @@ Passionate about cybersecurity, with hands-on project experience focused on vuln
 ## 🕵️ Threat Hunting and Security Operations
 
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
-
+- [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
 ---
 
 ## 📱 Connect With Me
