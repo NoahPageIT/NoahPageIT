@@ -1,6 +1,6 @@
 # Noah Page's IT and Cybersecurity Project Portfolio 🔐
 
-Passionate about cybersecurity, with hands-on project experience focused on vulnerability management, threat detection, security operations, and automation. These initiatives involve deploying and optimizing enterprise-grade tools such as Tenable, Nessus, and custom scanning solutions to proactively identify, analyze, and remediate security risks in complex environments.
+Passionate about cybersecurity, with hands-on project experience focused on vulnerability management, threat detection, security operations, automation, and **AI security**. These initiatives involve deploying and optimizing enterprise-grade tools such as Tenable, Nessus, and custom-built solutions to proactively identify, analyze, and remediate security risks — and increasingly, securing AI/LLM systems against emerging threats.
 
 ---
 
@@ -27,6 +27,12 @@ A lightweight **SIEM** that monitors Windows Security logs, detects attacker beh
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
 ---
 
+## 🤖 AI Security
+
+- [**Aegis** — LLM Security Test Harness](https://github.com/NoahPageIT/aegis) — red-teams LLM apps against the **OWASP LLM Top 10** (prompt injection, system-prompt leakage, jailbreaks, excessive agency) with detection logic, severity scoring, and a live report dashboard.
+
+---
+
 ## 📱 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/noahrpage/)
@@ -43,3 +49,4 @@ A lightweight **SIEM** that monitors Windows Security logs, detects attacker beh
 | Detection Eng.     | SIEM, detection rules, ATT&CK mapping, alert tuning |
 | Logging & Auditing | Windows audit policy, Security event analysis |
 | Automation         | PowerShell hardening scripts               |
+| AI Security        | OWASP LLM Top 10, prompt-injection testing, LLM red-teaming |
