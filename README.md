@@ -34,6 +34,7 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 
 - [Argus SIEM - Windows log monitoring + MITRE ATT&CK detections](https://github.com/NoahPageIT/argus-siem)
 - [Splunk SOC Lab - Splunk dashboard + SPL detections on Windows Security logs](https://github.com/NoahPageIT/splunk-soc-lab)
+- [ThreatTriage - Python IOC enrichment + alert triage across 7 threat-intel sources](https://github.com/NoahPageIT/threat-triage)
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
 ---
@@ -58,6 +59,7 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 | Vulnerability Mgmt | STIGs, remediation logic                   |
 | Threat Hunting     | ATT&CK thinking, investigation flow        |
 | Detection Eng.     | SIEM, detection rules, ATT&CK mapping, alert tuning |
+| Python / Automation| Threat-intel APIs, IOC enrichment, SOAR-style triage tooling |
 | Splunk / SPL       | Data onboarding, SPL searches, SOC dashboards |
 | Logging & Auditing | Windows audit policy, Security event analysis |
 | Automation         | PowerShell hardening scripts               |
