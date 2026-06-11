@@ -35,8 +35,16 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 - [Argus SIEM - Windows log monitoring + MITRE ATT&CK detections](https://github.com/NoahPageIT/argus-siem)
 - [Splunk SOC Lab - Splunk dashboard + SPL detections on Windows Security logs](https://github.com/NoahPageIT/splunk-soc-lab)
 - [ThreatTriage - Python IOC enrichment + alert triage across 7 threat-intel sources](https://github.com/NoahPageIT/threat-triage)
+- [Sigma Detection Library - detection-as-code, ATT&CK-mapped, validated in CI](https://github.com/NoahPageIT/sigma-detections)
+- [Purple Team Lab - ATT&CK technique emulation + the detections that catch it](https://github.com/NoahPageIT/purple-team-lab)
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
+---
+
+## ☁️ Cloud Security
+
+- [Azure Security Lab - secure Bicep IaC + Defender for Cloud + Sentinel KQL detections](https://github.com/NoahPageIT/azure-security-lab) (AZ-500 / SC-200)
+
 ---
 
 ## 🤖 AI Security
@@ -59,6 +67,8 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 | Vulnerability Mgmt | STIGs, remediation logic                   |
 | Threat Hunting     | ATT&CK thinking, investigation flow        |
 | Detection Eng.     | SIEM, detection rules, ATT&CK mapping, alert tuning |
+| Detection-as-Code  | Sigma rules, CI validation, purple-team verification |
+| Cloud Security     | Azure - Bicep IaC, Defender for Cloud, Sentinel KQL |
 | Python / Automation| Threat-intel APIs, IOC enrichment, SOAR-style triage tooling |
 | Splunk / SPL       | Data onboarding, SPL searches, SOC dashboards |
 | Logging & Auditing | Windows audit policy, Security event analysis |
