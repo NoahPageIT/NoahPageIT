@@ -36,6 +36,8 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 - [Splunk SOC Lab - Splunk dashboard + SPL detections on Windows Security logs](https://github.com/NoahPageIT/splunk-soc-lab)
 - [ThreatTriage - Python IOC enrichment + alert triage across 7 threat-intel sources](https://github.com/NoahPageIT/threat-triage)
 - [PhishTriage - email phishing triage: SPF/DKIM/DMARC, sender-spoof detection, URL defanging, attachment analysis](https://github.com/NoahPageIT/phish-triage)
+- [NetTriage - PCAP/PCAPNG triage: cleartext credentials, C2 beaconing, malicious-IP contact, suspicious DNS](https://github.com/NoahPageIT/net-triage)
+- [SOC Incident Response - NIST 800-61 case studies + brute-force/phishing/C2 playbooks](https://github.com/NoahPageIT/soc-incident-response)
 - [Sigma Detection Library - detection-as-code, ATT&CK-mapped, validated in CI](https://github.com/NoahPageIT/sigma-detections)
 - [Purple Team Lab - ATT&CK technique emulation + the detections that catch it](https://github.com/NoahPageIT/purple-team-lab)
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
@@ -72,6 +74,8 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 | Cloud Security     | Azure - Bicep IaC, Defender for Cloud, Sentinel KQL |
 | Python / Automation| Threat-intel APIs, IOC enrichment, SOAR-style triage tooling |
 | Phishing Analysis  | Email header forensics, SPF/DKIM/DMARC, URL/attachment triage, defanging |
+| Network Forensics  | PCAP/PCAPNG analysis, beaconing detection, cleartext-credential hunting |
+| Incident Response  | NIST 800-61 lifecycle, ATT&CK mapping, playbooks, IR documentation |
 | Splunk / SPL       | Data onboarding, SPL searches, SOC dashboards |
 | Logging & Auditing | Windows audit policy, Security event analysis |
 | Automation         | PowerShell hardening scripts               |
