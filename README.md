@@ -23,6 +23,7 @@ A lightweight **SIEM** that monitors Windows Security logs, detects attacker beh
 ## 🕵️ Threat Hunting and Security Operations
 
 - [Argus SIEM — Windows log monitoring + MITRE ATT&CK detections](https://github.com/NoahPageIT/argus-siem)
+- [Splunk SOC Lab — Splunk dashboard + SPL detections on Windows Security logs](https://github.com/NoahPageIT/splunk-soc-lab)
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
 ---
@@ -47,6 +48,7 @@ A lightweight **SIEM** that monitors Windows Security logs, detects attacker beh
 | Vulnerability Mgmt | STIGs, remediation logic                   |
 | Threat Hunting     | ATT&CK thinking, investigation flow        |
 | Detection Eng.     | SIEM, detection rules, ATT&CK mapping, alert tuning |
+| Splunk / SPL       | Data onboarding, SPL searches, SOC dashboards |
 | Logging & Auditing | Windows audit policy, Security event analysis |
 | Automation         | PowerShell hardening scripts               |
 | AI Security        | OWASP LLM Top 10, prompt-injection testing, LLM red-teaming |
