@@ -16,8 +16,6 @@ A lightweight **SIEM** that monitors Windows Security logs, detects attacker beh
 
 A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security event log, detects brute force, privilege abuse, and anti-forensics with **SPL searches mapped to MITRE ATT&CK**, and visualizes it all on a live **SOC Overview dashboard**.
 
-![SOC Overview dashboard](https://raw.githubusercontent.com/NoahPageIT/splunk-soc-lab/main/docs/dashboard.png)
-
 `Splunk` · `SPL` · `MITRE ATT&CK` · `SIEM` · `Dashboards`
 
 ---
