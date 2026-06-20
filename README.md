@@ -42,6 +42,7 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 - [Purple Team Lab - ATT&CK technique emulation + the detections that catch it](https://github.com/NoahPageIT/purple-team-lab)
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
+- [Threat Hunt Reports — LOG(N) Pacific Hunt 08 "Second Vector" M365 BEC investigation](https://github.com/NoahPageIT/threat-hunt-reports)
 ---
 
 ## ☁️ Cloud Security
