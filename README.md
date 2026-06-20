@@ -43,6 +43,7 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/NoahPageIT/threat-hunting-scenario-tor-/tree/main)
 - [Threat Hunting Scenario (Scattered Invoice)](https://github.com/NoahPageIT/Scattered-Invoice-BEC-Investigation/tree/main)
 - [Threat Hunt Reports — LOG(N) Pacific Hunt 08 "Second Vector" M365 BEC investigation](https://github.com/NoahPageIT/threat-hunt-reports)
+- [Threat Hunt Report — LOG(N) Pacific Hunt 07 Rocky Clinic OpenEMR Breach (Linux MDE / Sentinel KQL)](https://github.com/NoahPageIT/threat-hunt-reports/blob/main/hunt-07-rocky-clinic-openemr-breach.md)
 ---
 
 ## ☁️ Cloud Security
@@ -61,23 +62,22 @@ A SOC monitoring lab on **Splunk Enterprise**: onboards the Windows Security eve
 
 - [LinkedIn](https://www.linkedin.com/in/noahrpage/)
 
-
 ## 🛡️ Skills Developed
 
-| Area               | Focus                                      |
+| Area | Focus |
 |--------------------|--------------------------------------------|
-| Identity & Access  | Active Directory, DNS fundamentals         |
-| Infrastructure     | Network segmentation, trust boundaries     |
-| Vulnerability Mgmt | STIGs, remediation logic                   |
-| Threat Hunting     | ATT&CK thinking, investigation flow        |
-| Detection Eng.     | SIEM, detection rules, ATT&CK mapping, alert tuning |
-| Detection-as-Code  | Sigma rules, CI validation, purple-team verification |
-| Cloud Security     | Azure - Bicep IaC, Defender for Cloud, Sentinel KQL |
+| Identity & Access | Active Directory, DNS fundamentals |
+| Infrastructure | Network segmentation, trust boundaries |
+| Vulnerability Mgmt | STIGs, remediation logic |
+| Threat Hunting | ATT&CK thinking, investigation flow |
+| Detection Eng. | SIEM, detection rules, ATT&CK mapping, alert tuning |
+| Detection-as-Code | Sigma rules, CI validation, purple-team verification |
+| Cloud Security | Azure - Bicep IaC, Defender for Cloud, Sentinel KQL |
 | Python / Automation| Threat-intel APIs, IOC enrichment, SOAR-style triage tooling |
-| Phishing Analysis  | Email header forensics, SPF/DKIM/DMARC, URL/attachment triage, defanging |
-| Network Forensics  | PCAP/PCAPNG analysis, beaconing detection, cleartext-credential hunting |
-| Incident Response  | NIST 800-61 lifecycle, ATT&CK mapping, playbooks, IR documentation |
-| Splunk / SPL       | Data onboarding, SPL searches, SOC dashboards |
+| Phishing Analysis | Email header forensics, SPF/DKIM/DMARC, URL/attachment triage, defanging |
+| Network Forensics | PCAP/PCAPNG analysis, beaconing detection, cleartext-credential hunting |
+| Incident Response | NIST 800-61 lifecycle, ATT&CK mapping, playbooks, IR documentation |
+| Splunk / SPL | Data onboarding, SPL searches, SOC dashboards |
 | Logging & Auditing | Windows audit policy, Security event analysis |
-| Automation         | PowerShell hardening scripts               |
-| AI Security        | OWASP LLM Top 10, prompt-injection testing, LLM red-teaming |
+| Automation | PowerShell hardening scripts |
+| AI Security | OWASP LLM Top 10, prompt-injection testing, LLM red-teaming |
